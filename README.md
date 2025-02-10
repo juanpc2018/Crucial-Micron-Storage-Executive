@@ -7,7 +7,7 @@ its because the source code is designed to require AVX CPUs </br>
 [x86_64-v3](https://en.wikipedia.org/wiki/X86-64#Microarchitecture_levels).[*](https://hackaday.com/2024/02/25/what-is-x86-64-v3/) </br>
 does Not run in older CPU´s </br> 
 Tested with same Windows8.1x64 SSD on different boards/CPU´s/machines. </br>
-if want to upgrade SSD Firmware, requires to do it in a modern machine, </br>
+if want to upgrade SSD Firmware, requires to do it on a modern machine, </br>
 is recommended to have a UPS when doing any Firmware update, </br>
 Crucial Firmware Updates All SSD & M.2 at same time, IF you click only 1. </br>
 then move SATA SSD to older machine, </br>
