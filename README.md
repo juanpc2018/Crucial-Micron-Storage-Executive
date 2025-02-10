@@ -17,7 +17,7 @@ but allows to activate older plugins in older machines with older installers. </
 ### Mystery Solved. </br>
 
 Crucial version is for Windows Only, but... </br>
-Micron version also has Linux, GUI and CLI versions. </br>
+Micron version has Linux, GUI and CLI versions. </br>
 [Crucial Storage Executive](https://www.crucial.com/support/storage-executive) | [.zip](https://www.crucial.com/content/dam/crucial/support/storage-executive-win-64.zip) </br>
 [Micron Storage Executive](https://www.micron.com/sales-support/downloads/software-drivers/storage-executive-software) | [UG.pdf](https://www.micron.com/content/dam/micron/global/public/products/software/storage-executive-software/storageexecutive-user-guide-en.pdf) | [CLI.pdf](https://www.micron.com/content/dam/micron/global/public/products/software/storage-executive-software/msecli/storage-executive-cli-user-guide.pdf) | [Flex.pdf](https://www.micron.com/content/dam/micron/global/public/products/technical-marketing-brief/ssd-flex-capacity-feature-tech-brief.pdf) | [OverP.pdf](https://www.micron.com/content/dam/micron/global/public/products/technical-marketing-brief/overprovisioning-client-ssds-in-storage-executive-windows-brief.pdf) </br>
 Storage Executive Software (RUN) 03.31.2024 (GUI) [Linux 64-bit](https://www.micron.com/content/dam/micron/global/public/products/software/storage-executive-software/storageexecutive-linux.run) version 10.01.012024.00 </br>
