@@ -8,8 +8,9 @@ its because the source code is designed to require AVX CPUs </br>
 does Not run in older CPU´s </br> 
 Tested with same Windows8.1x64 SSD on different boards/CPU´s/machines. </br>
 if want to upgrade SSD Firmware, requires to do it in a modern machine, </br>
+is recommended to have a UPS when doing any Firmware update, also Crucial software Updates all SSD & M.2 at same time, IF you click in only 1. </br>
 then move SATA SSD to older machine, </br>
-similar to Waves Plugin Authorization App, that only works in modern machines, </br>
+similar to Waves Audio Plugin Authorization App, only works in modern machines, </br>
 but allows to activate older plugins in older machines with older installers. </br>
 
 ### Mystery Solved. </br>
