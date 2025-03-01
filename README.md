@@ -3,7 +3,9 @@
 its a Free Software, but nothing is "Free". </br>
 IF you have problems running Storage Executive, </br>
 is Not because the old Azure Java, </br>
-its because the source code is designed to require AVX CPUs </br>
+![Crucial-Zulu](https://github.com/user-attachments/assets/57352d41-3e37-4e01-87c6-6ca1d49359ec)
+
+its because source code is designed to require AVX CPUs, </br>
 [x86_64-v3](https://en.wikipedia.org/wiki/X86-64#Microarchitecture_levels).[*](https://hackaday.com/2024/02/25/what-is-x86-64-v3/) </br>
 does Not run in older CPU´s </br> 
 Tested same Windows8.1x64 SSD on different boards/CPU´s/machines. </br>
@@ -13,6 +15,7 @@ Crucial Firmware Updates All SSD & M.2 at same time, IF you click only 1. </br>
 then move SATA SSD to older machine, </br>
 similar to Waves Audio Plugin Authorization App, only works in modern machines, </br>
 but allows to activate older plugins in older machines with older installers. </br>
+similar to Supremicro SuperDoctor 5.2 </br>
 
 ### Mystery Solved. </br>
 
