@@ -2,7 +2,7 @@
 
 its a Free Software, but nothing is "Free". </br>
 IF you have problems running Storage Executive, </br>
-![Crucial-Zulu](https://github.com/user-attachments/assets/57352d41-3e37-4e01-87c6-6ca1d49359ec)
+![Crucial-Zulu](https://github.com/user-attachments/assets/57352d41-3e37-4e01-87c6-6ca1d49359ec) </br>
 is Not because the old Azure Java, </br>
 its because source code is designed to require AVX CPUs </br>
 [x86_64-v3](https://en.wikipedia.org/wiki/X86-64#Microarchitecture_levels).[*](https://hackaday.com/2024/02/25/what-is-x86-64-v3/) </br>
@@ -17,7 +17,7 @@ Similar to Waves Audio Plugin Authorization App, only works in modern machines, 
 but allows to activate older plugins in older machines with older installers. </br>
 
 Similar to Supremicro SuperDoctor 5.2 "InstallAnywhere" </br>
-![S_SD5-IA](https://github.com/user-attachments/assets/141adab2-b2a4-423a-850e-0554f266e32f)
+![S_SD5-IA](https://github.com/user-attachments/assets/141adab2-b2a4-423a-850e-0554f266e32f) </br>
 
 ### Mystery Solved. </br>
 
