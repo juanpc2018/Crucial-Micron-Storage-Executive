@@ -18,6 +18,7 @@ but allows to activate older plugins in older machines with older installers. </
 
 Similar to Supremicro SuperDoctor 5.2 "InstallAnywhere" </br>
 ![S_SD5-IA](https://github.com/user-attachments/assets/141adab2-b2a4-423a-850e-0554f266e32f) </br>
+[¿ What is JVM ?](https://www.partitionwizard.com/partitionmagic/java-virtual-machine-download-install.html) </br>
 
 ### Mystery Solved. </br>
 
